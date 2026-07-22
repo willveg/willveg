@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor(a) apaixonado(a) por tecnologia, sempre aprendendo algo novo 🚀
+  Desenvolvedor apaixonado por tecnologia, sempre aprendendo algo novo 🚀
 </p>
 
 <p align="center">
