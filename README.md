@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Will 👋
+# Olá, eu sou o Will 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70C0C&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Willian!;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70C0C&center=true&vCenter=true&width=600&height=40&lines=Hello,+my+name+is+Willian!;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 
 Desenvolvedor apaixonado por tecnologia, sempre aprendendo algo novo 
 
@@ -16,8 +16,6 @@ Desenvolvedor apaixonado por tecnologia, sempre aprendendo algo novo
 ### 📊 Estatísticas do GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=willveg&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willveg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 ### 🐍 Atividade recente
 
